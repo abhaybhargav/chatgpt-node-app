@@ -1,0 +1,17 @@
+{
+    "name": "my-express-app",
+    "version": "1.0.0",
+    "description": "An example Node.js Express application",
+    "main": "index.js",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "libxmljs": "^0.19.10",
+        "mongoose": "^5.12.3"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC"
+}
